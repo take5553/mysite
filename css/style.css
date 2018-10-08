@@ -243,6 +243,16 @@ progress{
     flex:1;
 }
 
+/* ボトム2 */
+
+.memo-item{
+    flex: 1;
+}
+
+.memo-box{
+    justify-content: space-around;
+}
+
 /* フッター */
 
 footer {
