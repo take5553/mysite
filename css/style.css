@@ -114,7 +114,7 @@ header {
 /* 自分について */
 
 .about-me-item{
-    flex: 1;
+    flex:1;
 }
 
 .about-me-box{
@@ -201,10 +201,6 @@ progress{
     width: 100px;
     font-weight: bold;
     padding: 0 10px;
-}
-
-.learned-box{
-    flex:auto;
 }
 
 .learned-list-text{
